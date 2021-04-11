@@ -327,12 +327,18 @@ img {
 }
 
 .banner img.special_01 {
-  width: 85rem;
-  right: -5%;
+  width: 55rem;
+  right: 15%;
+  position: absolute;
+	top: 50%;
+	transform: translate(25%,-50%)
 }
 .banner img.special_02 {
-  width: 100rem;
-  right: -10%;
+  width: 55rem;
+  right: 15%;
+  position: absolute;
+	top: 50%;
+	transform: translate(25%,-50%)
 }
 .banner img.special_03 {
   width: 100rem;
