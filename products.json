@@ -27,7 +27,7 @@
     {
       "title": "QRadar",
       "price": "200.99",
-      "image": "./images/IBM QRadar_0",
+      "image": "./images/IBM QRadar_0.png",
       "category": "featured"
     },
     {
@@ -39,7 +39,7 @@
     {
       "title": "ISTQB",
       "price": "250.99",
-      "image": "./images/istqb-awards",
+      "image": "./images/istqb-awards.png",
       "category": "featured"
     },
     {
@@ -51,7 +51,7 @@
     {
       "title": "Microsoft Azure",
       "price": "200.99",
-      "image": "./images/azure-fundamentals-600x600",
+      "image": "./images/azure-fundamentals-600x600.png",
       "category": "special"
     },
     {
