@@ -25,9 +25,9 @@
       "category": "trend"
     },
     {
-      "title": "Agile",
+      "title": "QRadar",
       "price": "200.99",
-      "image": "./images/agile-70194441-300x218.jpg",
+      "image": "./images/IBM QRadar_0",
       "category": "featured"
     },
     {
@@ -37,9 +37,9 @@
       "category": "recent"
     },
     {
-      "title": "SQL",
+      "title": "ISTQB",
       "price": "250.99",
-      "image": "./images/sqlcert.jpeg",
+      "image": "./images/istqb-awards",
       "category": "featured"
     },
     {
@@ -49,21 +49,9 @@
       "category": "recent"
     },
     {
-      "title": "Agile",
+      "title": "Microsoft Azure",
       "price": "200.99",
-      "image": "./images/agile-70194441-300x218.jpg",
-      "category": "special"
-    },
-    {
-      "title": "SQL",
-      "price": "250.99",
-      "image": "./images/sqlcert.jpeg",
-      "category": "special"
-    },
-    {
-      "title": "SQL",
-      "price": "250.99",
-      "image": "./images/sqlcert.jpeg",
+      "image": "./images/azure-fundamentals-600x600",
       "category": "special"
     },
     {
@@ -71,12 +59,6 @@
       "price": "100.99",
       "image": "./images/splunk.png",
       "category": "recent"
-    },
-    {
-      "title": "Splunk",
-      "price": "100.99",
-      "image": "./images/splunk.png",
-      "category": "special"
     },
     {
       "title": "Agile",
