@@ -52,12 +52,6 @@
       "title": "Agile",
       "price": "200.99",
       "image": "./images/agile-70194441-300x218.jpg",
-      "category": "trend"
-    },
-    {
-      "title": "Agile",
-      "price": "200.99",
-      "image": "./images/agile-70194441-300x218.jpg",
       "category": "special"
     },
     {
@@ -107,12 +101,6 @@
       "price": "100.99",
       "image": "./images/splunk.png",
       "category": "latest"
-    }, 
-    {
-      "title": "Agile",
-      "price": "200.99",
-      "image": "./images/agile-70194441-300x218.jpg",
-      "category": "trend"
     }
   ]
 }
