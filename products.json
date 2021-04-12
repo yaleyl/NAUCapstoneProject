@@ -1,10 +1,10 @@
 {
   "products": [
-    {
+     {
       "title": "Agile",
       "price": "200.99",
       "image": "./images/agile-70194441-300x218.jpg",
-      "category": "featured"
+      "category": "trend"
     },
     {
       "title": "SQL",
@@ -16,12 +16,102 @@
       "title": "JDK",
       "price": "375.99",
       "image": "./images/javacertifiedprogrammer.jpg",
-      "category": "featured"
+      "category": "trend"
     },
     {
       "title": "Splunk",
       "price": "100.99",
       "image": "./images/splunk.png",
+      "category": "trend"
+    },
+    {
+      "title": "Agile",
+      "price": "200.99",
+      "image": "./images/agile-70194441-300x218.jpg",
+      "category": "featured"
+    },
+    {
+      "title": "Agile",
+      "price": "200.99",
+      "image": "./images/agile-70194441-300x218.jpg",
+      "category": "recent"
+    },
+    {
+      "title": "SQL",
+      "price": "250.99",
+      "image": "./images/sqlcert.jpeg",
+      "category": "featured"
+    },
+    {
+      "title": "SQL",
+      "price": "250.99",
+      "image": "./images/sqlcert.jpeg",
+      "category": "recent"
+    },
+    {
+      "title": "Agile",
+      "price": "200.99",
+      "image": "./images/agile-70194441-300x218.jpg",
+      "category": "trend"
+    },
+    {
+      "title": "Agile",
+      "price": "200.99",
+      "image": "./images/agile-70194441-300x218.jpg",
+      "category": "special"
+    },
+    {
+      "title": "SQL",
+      "price": "250.99",
+      "image": "./images/sqlcert.jpeg",
+      "category": "special"
+    },
+    {
+      "title": "SQL",
+      "price": "250.99",
+      "image": "./images/sqlcert.jpeg",
+      "category": "special"
+    },
+    {
+      "title": "Splunk",
+      "price": "100.99",
+      "image": "./images/splunk.png",
+      "category": "recent"
+    },
+    {
+      "title": "Splunk",
+      "price": "100.99",
+      "image": "./images/splunk.png",
+      "category": "special"
+    },
+    {
+      "title": "Agile",
+      "price": "200.99",
+      "image": "./images/agile-70194441-300x218.jpg",
+      "category": "latest"
+    },
+    {
+      "title": "JDK",
+      "price": "375.99",
+      "image": "./images/javacertifiedprogrammer.jpg",
+      "category": "recent"
+    }, 
+    {
+      "title": "JDK",
+      "price": "375.99",
+      "image": "./images/javacertifiedprogrammer.jpg",
+      "category": "latest"
+    }, 
+    {
+      "title": "Splunk",
+      "price": "100.99",
+      "image": "./images/splunk.png",
+      "category": "latest"
+    }, 
+    {
+      "title": "Agile",
+      "price": "200.99",
+      "image": "./images/agile-70194441-300x218.jpg",
       "category": "trend"
     }
   ]
